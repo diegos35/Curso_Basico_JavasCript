@@ -1,9 +1,10 @@
 //array de Objectos
+//Programación Funcional Reactiva
 var articulos = [
     {nombre: "bici", costo: 3000}, 
     {nombre: "Tv", costo: 2500},
     {nombre: "libro", costo: 3200},
-    {nombre: "Celular", costo: 10000},
+    {nombre: "Celular", costo: 1000},
     {nombre: "Teclado", costo: 500},
     {nombre: "Audifonos", costo: 1700},
 ]

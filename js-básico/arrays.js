@@ -4,7 +4,7 @@ var  frutas = ["Manzana", "Platano", "Cereza", "Fresa"];
 console.log(frutas);
 console.log(frutas.length);
 console.log(frutas[0]);
-console.log(frutas.forEach(Element=> console.log(Element)));
+console.log(frutas.forEach(Element=> console.log(Elements))); //Element es igual al Element del console
 
 var masFrutas = frutas.push("Uvas"); //agrega al final
 
